@@ -27,12 +27,7 @@ Additionally, a 20-day sales forecasting model has been implemented to predict u
 
 ## 🔮 Forecasting
 Power BI’s built-in time series forecasting feature was used to predict sales for the next 20 days. 
-The forecast helps identify potential growth trends and future sales patterns.
-
----
-
-## 📄 Dashboard Preview
-[Click here to view full dashboard (PDF)](Project_Preview/SuperStore_Dashboard.pdf)
+The forecast helps identify potential growth trends and future sales pattern.
 
 ---
 
