@@ -33,7 +33,7 @@ The forecast helps identify potential growth trends and future sales pattern.
 
 ## 📄 DashBoard Preview
 [Click here to view full dashboard (PDF)]
-(SuperStore - Sales - Dashboard/Project_Preview/Super-Store Sales Dashboard.pdf)  
+(SuperStore - Sales - Dashboard/Project _Preview/Super-Store Sales Dashboard.pdf)  
 
 ---    
 
